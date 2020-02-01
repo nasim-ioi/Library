@@ -14,7 +14,5 @@ NOtice :
      
   2) You can see the information of tables (such as exist members , books , ...) on the server side
   
-  
-  3) unfortunately we do not have captcha :(
    
   
